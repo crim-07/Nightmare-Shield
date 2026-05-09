@@ -55,5 +55,9 @@ Para garantizar la privacidad de los logs de seguridad, Nightmare Shield integra
 <img width="908" height="1158" alt="image" src="https://github.com/user-attachments/assets/b82976d7-2662-4ba4-903f-b9ad81a64d48" />
 
 
+## Dashboard de Netdata
+<img width="1918" height="1198" alt="monitoring" src="https://github.com/user-attachments/assets/450fe92a-c252-47f1-b1e2-cefdee47125f" />
+
+
 ##  Conclusión
 Nightmare Shield Demuestra como la integracion de hardwarew de distintas generaciones puede ser llevado de vuelta a la vida y ser usado de forma segura bajo una arquitectura de vpn distribuida. Al combinar un NOC tradicional con analitica centralizada de un nodo potenciado por AMD HawkPoint, se logra una infraestructura resiliente, completamente privada y altamente capaz de realizar auditorias en el *edge*. 
